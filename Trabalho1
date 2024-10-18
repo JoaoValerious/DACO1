@@ -1,0 +1,11 @@
+# Assignment 1
+This assignment has two questions:
+ - Q1: Probability
+ - Q2: Linear Regression
+
+Utilize the designated cell within this notebook to complete the exercises. As for the Python exercises:
+- Refrain from altering the provided code; simply fill in the missing portions as indicated.
+- Do not use any additional libraries beyond those already included in the code (e.g., NumPy and Matplotlib library).
+- Make sure that the output of all code cells is visible in your submitted notebook. **The evaluator is NOT expected to execute your code before grading your submission.**
+   
+Please identify the authors of this assignment in the cell below.
